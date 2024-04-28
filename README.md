@@ -30,6 +30,7 @@ This project is made to cheat at the [Typing Test on HumanBenchmark.com][typing-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<hr>
 
 ### Built With
 
