@@ -21,7 +21,7 @@
 
 [![Product Name Screen Shot][product-screenshot]][repo-url]
 <div>
-    <video loop autoplay muted>
+    <video height="30px" loop autoplay muted>
         <source src="https://codehs.com/uploads/ee4178c32087a9ceb31f0e37e7e95cba" type="video/mp4">
     </video>
 </div>
