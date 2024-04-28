@@ -23,6 +23,7 @@
 <div>
     <video height="30px" loop autoplay muted>
         <source src="https://codehs.com/uploads/ee4178c32087a9ceb31f0e37e7e95cba" type="video/mp4">
+        Your browser does not support the video tag.
     </video>
 </div>
 This project is made to cheat at the [Typing Test on HumanBenchmark.com][trainer-hb] using Selenium to get the text element and typing it into the input field. Because of this, it's extremely fast, getting an average of 5000 WPM almost everytime.
