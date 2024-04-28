@@ -19,14 +19,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]][repo-url]
-<div>
-    <video height="30px" loop autoplay muted>
-        <source src="https://codehs.com/uploads/ee4178c32087a9ceb31f0e37e7e95cba" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
-This project is made to cheat at the [Typing Test on HumanBenchmark.com][trainer-hb] using Selenium to get the text element and typing it into the input field. Because of this, it's extremely fast, getting an average of 5000 WPM almost everytime.
+[![Product Name Video][product-video]][repo-url]
+
+This project is made to cheat at the [Typing Test on HumanBenchmark.com][typing-hb] using Selenium to get the text element and typing it into the input field. Because of this, it's extremely fast, getting an average of 5000 WPM almost everytime.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -34,8 +29,9 @@ This project is made to cheat at the [Typing Test on HumanBenchmark.com][trainer
 
 ### Built With
 
-* [![C#][CSharp]][CSharp-url]
-* [![Selenium]][Selenium-url]
+[![C#][CSharp]][CSharp-url]
+
+[![Selenium]][Selenium-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -57,7 +53,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-[product-screenshot]: assets/showcase.mp4
+[product-video]: assets/showcase.gif
 
 <!-- Product images and URLs -->
 [CSharp]: https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&color=512BD4
@@ -67,4 +63,4 @@ Don't forget to give the project a star! Thanks again!
 
 [repo-url]: https://github.com/layth49/TypingTest-HB
 
-[trainer-hb]: https://humanbenchmark.com/tests/typing
+[typing-hb]: https://humanbenchmark.com/tests/typing
