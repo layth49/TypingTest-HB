@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/layth49/TypingTest-HB">
-    <img src="assets/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/logo.png" alt="Logo">
   </a>
 
 <h3 align="center">TypingTest Cheat</h3>
@@ -56,11 +56,6 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<hr />
-
-
-
-[Selenium.WebDriver]: https://www.nuget.org/packages/Selenium.WebDriver
 
 [product-screenshot]: assets/showcase.mp4
 
