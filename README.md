@@ -19,9 +19,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+
 [![Product Name Video][product-video]][repo-url]
 
-This project is made to cheat at the [Typing Test on HumanBenchmark.com][typing-hb] using Selenium to get the text element and typing it into the input field. Because of this, it's extremely fast, getting an average of 5000 WPM almost everytime.
+Not Copy&Paste!
+
+This project is made to cheat at the [Typing Test on HumanBenchmark.com][typing-hb] using Selenium to get the text element and typing it into the input field. Because of this, it's extremely fast, getting an average of 5000 WPM almost every time.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
