@@ -22,7 +22,7 @@
 [![Product Name Screen Shot][product-screenshot]][repo-url]
 <div>
     <video loop autoplay muted>
-        <source src="assets/showcase.mp4" type="video/mp4">
+        <source src="https://codehs.com/uploads/ee4178c32087a9ceb31f0e37e7e95cba" type="video/mp4">
     </video>
 </div>
 This project is made to cheat at the [Typing Test on HumanBenchmark.com][trainer-hb] using Selenium to get the text element and typing it into the input field. Because of this, it's extremely fast, getting an average of 5000 WPM almost everytime.
