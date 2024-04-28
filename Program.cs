@@ -1,5 +1,4 @@
-﻿using HtmlAgilityPack;
-using OpenQA.Selenium;
+﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
 
@@ -16,6 +15,7 @@ class Program
         // Give some time for the page to fully load
         driver.Manage().Timeouts().PageLoad = TimeSpan.FromSeconds(10);
         driver.Manage().Window.Maximize(); // Maximizes the window to full screen
+
         #region
         IWebElement loginButton = driver.FindElement(By.XPath("//*[@id=\"root\"]/div/div[3]/div/div[2]/a[2]"));
         loginButton.Click();
@@ -42,13 +42,6 @@ class Program
         Thread.Sleep(1000);
         startTest.Click();
         #endregion
-
-        // Get the page source
-        string pageSource = driver.PageSource;
-
-        // Use HtmlAgilityPack to parse the page source
-        HtmlDocument htmlDoc = new HtmlDocument();
-        htmlDoc.LoadHtml(pageSource);
 
         // Wait a second to make sure the webpage is focused
         WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(1));
