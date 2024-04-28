@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/layth49/TypingTest-HB">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">TypingTest Cheat</h3>
@@ -53,13 +53,11 @@ Don't forget to give the project a star! Thanks again!
 
 <hr />
 
-<sup>This README was made with the [Best README Template repository](https://github.com/othneildrew/Best-README-Template).</sup>
-
 
 
 [Selenium.WebDriver]: https://www.nuget.org/packages/Selenium.WebDriver
 
-[product-screenshot]: images/logo.png
+[product-screenshot]: assets/showcase.mp4
 
 <!-- Product images and URLs -->
 [CSharp]: https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&color=512BD4
